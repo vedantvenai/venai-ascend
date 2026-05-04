@@ -1,0 +1,9 @@
+# React Native Ignore File
+# React Native
+node_modules/
+.expo/
+.expo-shared/
+
+# Node.js
+node_modules/
+npm-debug.log
